@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently looking for a job in Artificial intelligence, Machine Learning, and Data Analytics based in the US.
+- 📫 Please reach me if you are interested: xdai12@illinois.edu
+  
+### My link 🔗
+- [Resume](https://github.com/ggerganov/llama.cpp](https://media.licdn.com/dms/document/media/D4D2DAQFuBmH3-0ab3Q/profile-treasury-document-pdf-analyzed/0/1708654478735?e=1709769600&v=beta&t=Qrr_m2ozDh9nVwgqMz1Fl-XczDOMHfnFHKoGcsbf5Bw)https://media.licdn.com/dms/document/media/D4D2DAQFuBmH3-0ab3Q/profile-treasury-document-pdf-analyzed/0/1708654478735?e=1709769600&v=beta&t=Qrr_m2ozDh9nVwgqMz1Fl-XczDOMHfnFHKoGcsbf5Bw)
