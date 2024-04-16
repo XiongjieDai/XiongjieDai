@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 Please reach me if you are interested: xdai12@illinois.edu
   
 ### My link 🔗
-- [Resume](https://github.com/XiongjieDai/XiongjieDai/blob/main/Xiongjie_Dai_Resume_ML.pdf)
+- [Resume](https://github.com/XiongjieDai/XiongjieDai/blob/main/Jack_Dai_Resume_ML.pdf)
