@@ -19,3 +19,4 @@ Here are some ideas to get you started:
   
 ### My link 🔗
 - [Resume](https://github.com/XiongjieDai/XiongjieDai/blob/main/Jack_Dai_Resume.pdf)
+- [履歴書](https://github.com/XiongjieDai/XiongjieDai/blob/main/%E6%88%B4%E9%9B%84%E4%BB%8B%E3%81%AE%E5%B1%A5%E6%AD%B4%E6%9B%B8.pdf)
