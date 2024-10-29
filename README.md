@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently looking for a job in Artificial intelligence, Machine Learning, and Data Analytics based in the US🇺🇸 and Japan🇯🇵.
+- 🔭 I’m currently looking for a job in Artificial intelligence, Machine Learning, and Data Analytics based in the Japan🇯🇵.
 - 📫 Please reach me if you are interested: xdai12@illinois.edu
   
 ### My link 🔗
