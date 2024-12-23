@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently looking for a job in Artificial intelligence, Machine Learning, and Data Analytics based in the Japan🇯🇵.
-- 📫 Please reach me if you are interested: xdai12@illinois.edu
+- 📫 Please reach me if you are interested: xiongjie.dai.1@gmail.com
   
 ### My link 🔗
 - [Resume](https://github.com/XiongjieDai/XiongjieDai/blob/main/Jack_Dai_Resume.pdf)
